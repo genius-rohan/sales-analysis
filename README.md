@@ -1,4 +1,4 @@
-# Sales Analysis
+# 📈 Sales Analysis
 Report creation using PowerBI 
 >Sales of different products is analysed and compared.
 Clear Insights are shown using PPT report
