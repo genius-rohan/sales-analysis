@@ -5,3 +5,4 @@ Clear Insights are shown using PPT report
 Data is first cleaned using Python
 
 This is a portfolio project for Data Analysis using Power BI and excel
+### It is recomended to open PPT file if you dont have access to Power BI account
